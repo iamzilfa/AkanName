@@ -2,91 +2,83 @@ body {
     background-image: linear-gradient(rgba(10, 102, 10, 0.7), rgba(250, 239, 139, 0.2)), url(https://cdn.shopify.com/s/files/1/0008/1752/8879/files/africa-african-african-culture-1308174_large.jpg?v=1536863882);
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
-  .table {
+.table {
     width: 450px;
-    
-  }
+}
 
-  .table td {
-   font-family: 'Gloria Hallelujah', cursive;
-   color: rgb(250, 252, 239);
-  }
+.table td {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(250, 252, 239);
+}
 
-  .table th {
+.table th {
     color: rgb(253, 253, 44);
-  }
+}
 
-  h1 {
+h1 {
     font-family: 'Freckle Face', cursive;
     font-size: 100px;
     text-align: center;
     letter-spacing: 48px;
-    color: rgb(165, 27, 22) ;
+    color: rgb(165, 27, 22);
     text-shadow: 10px 10px 10px rgb(235, 215, 43);
     margin-top: 10px;
-    
-  }
-  
-  h6 {
+}
+
+h6 {
     color: white;
     font-family: 'Gloria Hallelujah', cursive;
-  }
+}
 
-  p {
+p {
     text-align: justify;
     margin: 20px 0;
     color: rgb(248, 250, 235);
     font-family: 'Gloria Hallelujah', cursive;
-    
-  }
+}
 
-  .copyright {
+.copyright {
     text-align: center;
-  }
+}
 
-  .form {
+.form {
     width: 450px;
-  }
-  
+}
 
-  hr {
+hr {
     background-color: whitesmoke;
-  }
+}
 
-  footer {
+footer {
     text-align: center;
     color: white;
-  }
+}
 
-  label {
+label {
     color: yellow;
     text-align: center;
-  }
+}
 
-  input[type=number] {
+input[type=number] {
     width: 550px;
     border-radius: 20px;
     border: none;
-  }
-
+}
 
 .btn {
     background-color: rgb(165, 27, 22);
     width: 150px;
     border-radius: 20px;
     text-align: center;
-    margin:5px 0;
-  
-  }
-
+    margin: 5px 0;
+}
 
 label {
     margin: 5px 20px;
-  }
-
+}
 
 option {
     border-radius: 20px;
-  }
+}
