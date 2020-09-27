@@ -45,3 +45,8 @@ body {
   .copyright {
     text-align: center;
   }
+
+  .form {
+    width: 450px;
+  }
+  
