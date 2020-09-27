@@ -59,3 +59,8 @@ body {
     text-align: center;
     color: white;
   }
+
+  label {
+    color: yellow;
+    text-align: center;
+  }
