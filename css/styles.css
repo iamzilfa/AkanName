@@ -3,3 +3,17 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .table {
+    width: 450px;
+    
+  }
+
+  .table td {
+   font-family: 'Gloria Hallelujah', cursive;
+   color: rgb(250, 252, 239);
+  }
+
+  .table th {
+    color: rgb(253, 253, 44);
+  }
