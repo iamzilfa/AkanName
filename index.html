@@ -75,6 +75,36 @@
             </table>
         </div>
 
+        <div class="col">
+            <p style="width: 450;">This a web application that takes a user's birthday and calculates the day of
+                the week they were born and
+                then
+                depending on their gender outputs their Akan Name.</p>
+
+            <h6>To find put your Akan name, please fill out this form:</h6>
+            <hr>
+            <form action="">
+                <label for="year">YEAR</label> <br>
+                <input type="number" id="year"><br>
+                <label for="month">MONTH</label> <br>
+                <input type="number" id="month"><br>
+                <label for="date">DATE</label><br>
+                <input type="number" id="date"><br>
+                <div class="form-group">
+                    <label for="gender">Gender</label>
+                    <select class="form-control" id="gender">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option><br>
+                    </select>
+                </div>
+                <button type="button" class="btn btn-danger" onclick="names()">Check</button>
+            </form>
+
+            <p id="display"></p>
+
+        </div>
+    </div>
+
     
 
 
