@@ -17,3 +17,15 @@ body {
   .table th {
     color: rgb(253, 253, 44);
   }
+
+  h1 {
+    font-family: 'Freckle Face', cursive;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 48px;
+    color: rgb(165, 27, 22) ;
+    text-shadow: 10px 10px 10px rgb(235, 215, 43);
+    margin-top: 10px;
+    
+  }
+  
