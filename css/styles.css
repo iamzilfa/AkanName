@@ -64,3 +64,9 @@ body {
     color: yellow;
     text-align: center;
   }
+
+  input[type=number] {
+    width: 550px;
+    border-radius: 20px;
+    border: none;
+  }
