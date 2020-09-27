@@ -85,3 +85,8 @@ body {
 label {
     margin: 5px 20px;
   }
+
+
+option {
+    border-radius: 20px;
+  }
