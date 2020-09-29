@@ -31,7 +31,7 @@ If anyone need support concerning my project or anything related, just reach out
 [Here is the link](https://iamzilfa.github.io/AkanName/ "Akan-Name")
 
 
-![AkanNAme](./images/Akpic.png)
+![AkanNAme](./images/wenAkan.png)
 
 ### License
 
