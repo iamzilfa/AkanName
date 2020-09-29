@@ -33,7 +33,6 @@ h6 {
     color: white;
     font-family: 'Delius', cursive;
     font-weight: 600;
-    
 }
 
 p {
@@ -82,7 +81,7 @@ input[type=number] {
 }
 
 .btn {
-    background-color:#4d0000;
+    background-color: #4d0000;
     color: white;
     width: 180px;
     border-radius: 20px;
