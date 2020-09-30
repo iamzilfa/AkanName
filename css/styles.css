@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(rgba(10, 102, 10, 0.7), rgba(250, 239, 139, 0.2)), url(https://cdn.shopify.com/s/files/1/0008/1752/8879/files/africa-african-african-culture-1308174_large.jpg?v=1536863882);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://cdn.shopify.com/s/files/1/0008/1752/8879/files/africa-african-african-culture-1308174_large.jpg?v=1536863882);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -11,7 +11,6 @@ body {
 .table td {
     font-family: 'Delius', cursive;
     color: white;
-    font-weight: 600;
 }
 
 .table th {
@@ -33,6 +32,7 @@ h6 {
     color: white;
     font-family: 'Delius', cursive;
     font-weight: 600;
+
 }
 
 p {
@@ -40,7 +40,6 @@ p {
     margin: 20px 0;
     color: white;
     font-family: 'Delius', cursive;
-    font-weight: 600;
 }
 
 .copyright {
@@ -59,7 +58,7 @@ footer {
     text-align: center;
     border-top: solid 1px white;
     margin-top: 50px;
-    color: white;
+    color: grey;
 }
 
 label {
@@ -82,11 +81,12 @@ input[type=number] {
 }
 
 .btn {
-    background-color: rgba(255, 255, 255, 0.212);
-    width: 250px;
+    background-color:#4d0000;
+    color:white;
+    width: 200px;
     border-radius: 20px;
     text-align: center;
-    margin-left: 140px;
+    margin-left: 160px;
     border: none;
     height: 30px;
     padding-bottom: 30px;
@@ -107,8 +107,9 @@ input[type=number] {
 h3 {
     margin-left: 30px;
     font-family: 'Shadows Into Light Two', cursive;
-    letter-spacing: 7px;
-    color: #4d0000;
+    letter-spacing: 6px;
+    color: yellow;
     font-size: 30px;
     font-weight: bolder;
+    text-shadow: 5px 5px 5px white;
 }
